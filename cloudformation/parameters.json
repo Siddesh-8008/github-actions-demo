@@ -1,14 +1,1 @@
-[
-  {
-    "ParameterKey": "Environment",
-    "ParameterValue": "dev"
-  },
-  {
-    "ParameterKey": "ProjectName",
-    "ParameterValue": "cfn-demo"
-  },
-  {
-    "ParameterKey": "LambdaMemorySize",
-    "ParameterValue": "256"
-  }
-]
+
